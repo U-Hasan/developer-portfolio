@@ -117,7 +117,21 @@ main {
 }
 .info-description{
     font-size: 20px;
-    font-weight: 700;
-    color: #474747;
 }
-
+/* what i do styles */
+.what-i-do{
+    margin-top: 30px;
+}
+.section-info-title{
+    text-align: center;
+    font-size: 35px;
+    margin: 130px 0 30px;
+   
+}
+.do-description{
+    color: #757575;
+    text-align: center;
+    font-weight: 700px;
+    font-size: 20px;
+    margin:0 150px 50px;
+}
