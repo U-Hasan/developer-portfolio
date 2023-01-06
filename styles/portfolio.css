@@ -174,9 +174,11 @@ section {
 /* resume styles */
 .resume-box {
     display: flex;
+    gap: 40px;
+    
 }
 
-.education {}
+/* .education {} */
 
 .box-title {
     font-weight: 700;
@@ -185,7 +187,10 @@ section {
     margin-bottom: 30px;
 }
 
-.box-description {}
+.box-description {
+  margin: 30px 0;
+  padding-right:30px;
+}
 
 .job-title {
     color: #474747;
@@ -206,4 +211,8 @@ section {
     color: #757575;
     font-weight: 400;
     font-size: 16px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
 }
