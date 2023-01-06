@@ -32,7 +32,7 @@ nav {
     display: flex;
     justify-content: space-between;
     margin: 5px 200px;
-    padding: 50px 0px;
+    /* padding: 50px 0px; */
 }
 
 nav ul {
